@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="pizzame" android:versionCode="1" android:versionName="1.0">
+	<uses-sdk android:minSdkVersion="23" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyC4aY38629hzZ8H9gCExYJJvXfG4fJHg-s"/>
+	<application />
+</manifest>
